@@ -414,7 +414,8 @@ body, html{
 }
 
 .second--canvas .content h2:nth-child(2){
-	transform:translateX(2em);
+	transform:translateX(5em);
+	width: 70%;
 	opacity: 0;
 	animation:secondCanvasTextTwo 500ms ease 1.5s 1 forwards
 }
