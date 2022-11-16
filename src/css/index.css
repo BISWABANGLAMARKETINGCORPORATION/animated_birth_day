@@ -396,7 +396,7 @@ body, html{
 	transform: translateY(-40%);
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
-	font-size:5em;
+	font-size:4em;
 	color:#fff;
 }
 
@@ -415,7 +415,6 @@ body, html{
 
 .second--canvas .content h2:nth-child(2){
 	transform:translateX(5em);
-	width: 70%;
 	opacity: 0;
 	animation:secondCanvasTextTwo 500ms ease 1.5s 1 forwards
 }
