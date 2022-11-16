@@ -1,1 +1,2 @@
-# animated_birth_day
+# birthday-animation
+Just an animation made on CSS to wish someone!
